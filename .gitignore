@@ -1,3 +1,4 @@
 imgs
 .idea
 chromedriver.exe
+.env
